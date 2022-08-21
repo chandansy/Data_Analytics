@@ -59,6 +59,8 @@ After all the analysis , the data is reliable enough to build the dashboard.
 
 **Dashboard**
 
+![image](https://user-images.githubusercontent.com/100086571/185780641-c07b81fe-c766-4fc9-ba48-4a1addd0606c.png)
+
 
 
 
